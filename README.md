@@ -30,7 +30,7 @@ Backend: https://github.com/KrishanthaBSomarathna/book_review_backend
 
 4. User can search Review using search bar
 
-   ![image](https://github.com/user-attachments/assets/5eb40de9-7c60-4578-84e1-15e1c40955bb)
+![image](https://github.com/user-attachments/assets/5eb40de9-7c60-4578-84e1-15e1c40955bb)
 
 5. If need to view, edit, or delete review user need to click on review card then redirected to the review Detail page
 
@@ -40,7 +40,7 @@ In here user can read full review and edit delete
 
 6. If click on Edit its redirected to the review edit page with correct values
 
-   ![image](https://github.com/user-attachments/assets/8728ca08-fc77-48df-83a7-5bdf99c5ccd7)
+![image](https://github.com/user-attachments/assets/8728ca08-fc77-48df-83a7-5bdf99c5ccd7)
 
 
 
